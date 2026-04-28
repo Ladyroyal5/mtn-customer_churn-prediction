@@ -1,0 +1,5 @@
+pandas as pd
+sci-kit learn
+joblit
+numpy as np
+streamlit as st
