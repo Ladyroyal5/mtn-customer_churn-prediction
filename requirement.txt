@@ -1,5 +1,8 @@
-pandas as pd
-sci-kit learn
-joblit
-numpy as np
-streamlit as st
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+matplotlib
+seaborn
