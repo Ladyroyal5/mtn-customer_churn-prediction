@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that predicts customer churn and segments customers into actionable risk groups using real-world telecom-style data.
 
-🚀# Project Overview
+🚀 Project Overview
 
 Customer churn is a major problem for telecom companies. This project builds a machine learning model to:
 
@@ -105,7 +105,7 @@ Feature names
 Threshold
 Encoders
 
-#▶️ How to Run the App
+▶️ How to Run the App
 Clone the repository:
 git clone https://github.com/your-username/churn-project.git
 cd churn-project
@@ -121,6 +121,4 @@ Customer segmentation
 Interactive dashboard
 
 👤 Author
-
 Lilian Nyinyayo
-Total Revenue
