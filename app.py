@@ -79,7 +79,7 @@ if st.button("🔍 Analyze Customer"):
     col1, col2, col3 = st.columns(3)
 
     col1.metric("Churn Probability", f"{prob:.2%}")
-    col2.metric("Prediction", "Likely to Churn" if pred == 1 else "Not Likely to Churn")  
+    col2.metric("Prediction", "Churn" if pred == 1 else "Not Churn")  
     col3.metric("Segment", segment)
 
     #Risk Level
